@@ -1,0 +1,8 @@
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\bin\Debug\BCAEligibility.dll
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\bin\Debug\BCAEligibility.pdb
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\obj\Debug\BCAEligibility.csproj.CoreCompileInputs.cache
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\obj\Debug\BCAEligibility.dll
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\obj\Debug\BCAEligibility.pdb
+C:\Users\User1\source\repos\BCAEligibility\BCAEligibility\obj\Debug\BCAEligibility.csprojResolveAssemblyReference.cache
